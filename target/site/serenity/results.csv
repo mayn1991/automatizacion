@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"flujo de compras","como usuario quiero ingresar con mi usuario","PENDING","2021-02-03T22:39:30.3326905-05:00[America/Lima]","0.0","16.52"
+"flujo de compras","como usuario quiero validar que busque la blusa","ERROR","2021-02-04T14:26:04.3207553-05:00[America/Lima]","0.0","17.34"
+"flujo de compras","como usuario quiero comprobar todas mis ordenes","SUCCESS","2021-02-04T20:58:52.2089082-05:00[America/Lima]","0.0","32.17"
+"flujo de compras","como usuario quiero agregar carrito el producto de verano","SUCCESS","2021-02-04T21:07:11.2524625-05:00[America/Lima]","0.0","70.51"
+"registrar usuario","como usuario quiero registrarme en la tienda virtual","SUCCESS","2021-02-04T21:23:16.7350758-05:00[America/Lima]","0.0","29.22"
